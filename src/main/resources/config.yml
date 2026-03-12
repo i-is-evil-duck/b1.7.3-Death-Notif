@@ -4,11 +4,9 @@ default-messages:
   - " killed them self"
   - " died in a hole"
   - " jumped"
-  - " did a Epstein"
 
 players:
   mikey:
     - " slipped on a banana"
-    - " farted too hard"
-    - " tripped over their ego"
+
 
