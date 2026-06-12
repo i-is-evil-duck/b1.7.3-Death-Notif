@@ -2,9 +2,12 @@
 
 
 ### Minecraft Beta 1.7.3 Death Notifications plugin
-Adds custom death notifications
 
-per player notifications suported
+Adds custom death notifications when a player dies. Messages are randomly selected from a configurable pool.
+
+Per-player notifications are supported — specific players can have their own custom death message lists in `config.yml`, overriding the defaults. Falls back to default messages if no per-player list is defined.
+
+No commands or permissions — works out of the box.
 
 ## Views
 
