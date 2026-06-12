@@ -1,0 +1,12 @@
+default-messages:
+  - " has died! RIP."
+  - " died LMFAOO"
+  - " killed them self"
+  - " died in a hole"
+  - " jumped"
+
+players:
+  mikey:
+    - " slipped on a banana"
+
+
